@@ -8,5 +8,5 @@
 # 2.C++Primer
  Number  | Title  | code  
 ----  | ---- | ----- 
-1  | 开始  | [链接](https://www.cnblogs.com/sdcs/p/8270029.html) 
+1  | 开始  | [链接](https://github.com/TangDouOVO/Learning/blob/main/C%2B%2BPrimer/chapter1.cpp) 
 
