@@ -9,4 +9,5 @@
  Number  | Title  | code  
 ----  | ---- | ----- 
 1  | 开始  | [链接](https://github.com/TangDouOVO/Learning/blob/main/C%2B%2BPrimer/chapter1.cpp) 
+2  | 变量和基本类型  | [链接](https://github.com/TangDouOVO/Learning/blob/main/C++Primer/chapter2.cpp) 
 
