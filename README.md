@@ -11,4 +11,8 @@
 1  | 开始  | [链接](https://github.com/TangDouOVO/Learning/blob/main/C%2B%2BPrimer/chapter1.cpp) 
 2  | 变量和基本类型  | [链接](https://github.com/TangDouOVO/Learning/blob/main/C++Primer/chapter2.cpp) 
 3  | 字符串、向量和数组  | [链接](https://github.com/TangDouOVO/Learning/blob/main/C%2B%2BPrimer/chapter3.cpp) 
+4  | 类型转换  | [链接](https://github.com/TangDouOVO/Learning/blob/main/C%2B%2BPrimer/chapter4.cpp) 
+
+
+
 
